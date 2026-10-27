@@ -1,0 +1,16 @@
+{
+  "name": "motion-explainer",
+  "private": true,
+  "version": "0.1.0",
+  "description": "MotionExplainer: agent-led, storyboard-first video explainers built with Remotion",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.524",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.524"
+  }
+}

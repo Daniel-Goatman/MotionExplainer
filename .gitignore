@@ -1,0 +1,15 @@
+node_modules/
+.pnpm-store/
+out/
+projects/
+public/fonts/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+.claude/settings.local.json
+
+# Jobs are private working material: only the jobs README is published.
+jobs/*
+!jobs/README.md

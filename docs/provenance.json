@@ -1,0 +1,31 @@
+{
+  "note": "Pinned snapshot of the SpeechControl Visuals design system. Hashes cover the files in design-source/speechcontrol as published here.",
+  "ageCheck": {
+    "date": "2026-10-27",
+    "versions": 286,
+    "failures": 0,
+    "youngest": "fast-uri@3.1.8",
+    "published": "2026-09-15T07:36:25.444Z"
+  },
+  "designSnapshot": {
+    "README.md": "a94ae08b64b9bb958e491d3af6b6090f6fe0e1f2cbe377a35a76bb2d638fa212",
+    "components/AnswerPanel/README.md": "9948ab550dd5bba974c60b0beadd00b13f63a8e953fe78c51ca3f8109cce276a",
+    "components/AreaTiles/README.md": "637174143189ce7eb23f14c3871bd2b0132cc4b1567b92fc5b4ac374bb7d1422",
+    "components/Ask/README.md": "9b269296bc2c8a8d03335d40a12682f7b9d9cc197c45a71af7c32edb947a9de6",
+    "components/CapacityBar/README.md": "a5124e06d3ed06f4ff235b8f91eac99fc7dd65e5082168f007dc7267c2d65452",
+    "components/CarouselNav/README.md": "933f9e76f6ced0429041815d7c3a22a34963074d17f5d20920183b54ed568f61",
+    "components/ComparisonColumns/README.md": "e6252306761bb8cdb377ef7946528d80dfe8c7d1aca46aebcbf104df167edbba",
+    "components/DotField/README.md": "ff4ccbca371c335c256204b38ad5ecccae23e670a241c58b2b8e300e19c4c0b3",
+    "components/Legend/README.md": "ee336e79e624585ca08264ab79b90bb4cf91ba62efb5e84db68d01c8bb2989c3",
+    "components/Loader/README.md": "90d2b656f9703de82ce346b7b70028e5afa83c739ad1cba132f38555b1bf7dee",
+    "components/ReturnLink/README.md": "57dd2506ab3c9f3d9b2f4631f939dde8f7383251e01730a260a24d6b8636673a",
+    "components/RollingNumber/README.md": "6e58391a3715f763fcc7d6c7a138abac172ab003695aa61ab49164a8aba841dc",
+    "components/Scrubber/README.md": "802d50cc6e30b8b67dec9b5864ecb62866e536df84eb977b7cd4d1270bb15044",
+    "components/StoryControls/README.md": "07291f9ef8074202940696d4e1955c224ebf279c719bc58a41bcdaeece97303d",
+    "components/SwapText/README.md": "06e73c9098228be63b5377ddc5dfc840647443643b28faf58e33a20f88ff9edd",
+    "components/Timeline/README.md": "eeb32114a318177550846917934253235d0920dceb194a0d1b49ea8d753018e7",
+    "components/Tooltip/README.md": "f0417e79af2d455a2992c0bd0a5c3d93e29597f70f65c09c440104a3434833cd",
+    "tokens.css": "0c563d2dd809bc0eb188b1126e8db3b4007a9acd1860bb594fa49506292a6b0a",
+    "tokens.json": "de1d8b4789aa612c81f7751ef70caa310206f548c9b781b2169d66369af54478"
+  }
+}
